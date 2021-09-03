@@ -9,3 +9,4 @@
 * regedit -> Computer\HKEY_CLASSES_ROOT\Applications (New -> String Value -> FriendlyAppName)
 * https://stackoverflow.com/questions/14906673/how-can-i-set-the-name-of-my-program-in-the-open-with-dialog
 * https://docs.microsoft.com/en-us/windows/win32/shell/app-registration
+* https://docs.microsoft.com/en-us/answers/questions/458845/win32-app-submission.html
