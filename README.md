@@ -6,3 +6,4 @@
 * https://stackoverflow.com/questions/65039340/change-task-manger-title-for-win32-console-app/65068929#65068929
 * regedit -> Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts
 * regedit -> Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+* regedit -> Computer\HKEY_CLASSES_ROOT\Applications\
