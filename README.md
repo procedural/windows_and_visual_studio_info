@@ -5,3 +5,4 @@
 * https://stackoverflow.com/questions/2393863/set-an-exe-icon-for-my-program/26130514#comment52433408_26130514
 * https://stackoverflow.com/questions/65039340/change-task-manger-title-for-win32-console-app/65068929#65068929
 * regedit -> Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts
+* regedit -> Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
