@@ -1,1 +1,4 @@
-# windows_and_visual_studio_info
+* https://stackoverflow.com/questions/1169556/making-a-windows-shortcut-start-relative-to-where-the-folder-is/17951772#17951772
+> According to Microsoft, if you leave the 'Start In' box empty, the script will run in the current working directory. I've tried this in Windows 7 and it appears to work just fine.
+>
+> Source: http://support.microsoft.com/kb/283065
