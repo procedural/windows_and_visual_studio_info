@@ -11,3 +11,4 @@
 * https://docs.microsoft.com/en-us/windows/win32/shell/app-registration
 * https://docs.microsoft.com/en-us/answers/questions/458845/win32-app-submission.html
 * https://docs.microsoft.com/en-us/windows/msix/overview
+* https://stackoverflow.com/questions/61702537/getting-symbols-for-explicitly-loaded-dll-from-the-application
